@@ -2,3 +2,6 @@ hello
 bonjour
 hola
 hallo
+guten tag
+Namaste
+Tashi Delek
